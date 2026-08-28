@@ -1,6 +1,6 @@
 # OpenAI Chat Completions tracing fixture
 
-A minimal Node.js TypeScript CLI containing one non-streaming OpenAI Chat Completions call. It is intended as a stable fixture for tracing integration studies.
+A minimal Node.js TypeScript CLI containing one non-streaming OpenAI Chat Completions call. 
 
 ## Requirements
 
